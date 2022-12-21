@@ -1,0 +1,28 @@
+* {
+    background-image: url('../imgs/wallpaper.jpg');
+    background-size: fill;
+    background-repeat: no-repeat;
+    color: #fff;
+}
+
+
+.dino {
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    left: 20px;
+    background-image: url(../imgs/dinosaurio.png);
+    background-size: cover ;
+    bottom: 0;
+
+}
+
+.obstacle {
+    position: absolute;
+    width: 60px;
+    height: 60px; 
+    background-image: url(../imgs/arbol.png);
+    background-size: cover ;
+    bottom: 0;
+}
+
